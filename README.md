@@ -1,1 +1,1 @@
-# Inventory-Management-System
+Simple News Application
