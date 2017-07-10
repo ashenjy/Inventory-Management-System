@@ -1,4 +1,4 @@
-Simple News Application
+#Simple News Application
 
 CREATE DATABASE `testdb`;
 use `testdb`;
